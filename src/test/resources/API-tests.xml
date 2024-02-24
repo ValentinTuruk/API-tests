@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Base ATI tests">
+    <test verbose="2" name="base requests test">
+        <classes>
+            <class name="typicode.tests.APITests"/>
+        </classes>
+    </test>
+</suite>
